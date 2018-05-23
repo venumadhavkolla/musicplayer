@@ -61,6 +61,7 @@ input#volume{
 	height:1px;
 	margin-bottom:20px;
 }
+
 input#volume::-webkit-slider-thumb{
 	-webkit-appearance:none !important;
 	background:url(../images/knob.png) no-repeat;
